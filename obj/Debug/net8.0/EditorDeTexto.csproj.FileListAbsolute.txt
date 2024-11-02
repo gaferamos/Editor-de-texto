@@ -1,0 +1,14 @@
+c:\Projects\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.exe
+c:\Projects\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.deps.json
+c:\Projects\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.runtimeconfig.json
+c:\Projects\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.dll
+c:\Projects\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.pdb
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.AssemblyInfoInputs.cache
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.AssemblyInfo.cs
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.csproj.CoreCompileInputs.cache
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.dll
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\refint\EditorDeTexto.dll
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.pdb
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.genruntimeconfig.cache
+c:\Projects\EditorDeTexto\obj\Debug\net8.0\ref\EditorDeTexto.dll
